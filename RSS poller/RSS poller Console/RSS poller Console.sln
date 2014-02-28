@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS poller Console", "RSS poller Console\RSS poller Console.csproj", "{C9A9B5B9-CE56-4868-A086-5CA7FE14A4F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rss Winform", "Rss Winform\Rss Winform.csproj", "{93BFB399-8327-463F-B294-5A27B4827386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A9B5B9-CE56-4868-A086-5CA7FE14A4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A9B5B9-CE56-4868-A086-5CA7FE14A4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A9B5B9-CE56-4868-A086-5CA7FE14A4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A9B5B9-CE56-4868-A086-5CA7FE14A4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BFB399-8327-463F-B294-5A27B4827386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BFB399-8327-463F-B294-5A27B4827386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BFB399-8327-463F-B294-5A27B4827386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BFB399-8327-463F-B294-5A27B4827386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
